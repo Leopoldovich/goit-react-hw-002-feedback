@@ -1,5 +1,5 @@
 {
-  "name": "goit-react-hw-002-feedback",
+  "name": "goit-react-hw-02-feedback",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,7 +12,7 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
-  "homepage": "https://Leopoldovich.github.io/goit-react-hw-002-feedback",
+  "homepage": "https://Leopoldovich.github.io/goit-react-hw-02-feedback",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
